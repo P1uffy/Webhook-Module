@@ -3,6 +3,7 @@ A simple roblox module that allows for sending messages from roblox to discord.
 
 # Step 1
 Get the Webhook Module and put it somewhere: https://www.roblox.com/library/9179250936/WebhookModule
+Github link can be found here: https://github.com/P1uffy/Webhook-Module
 
 # Step 2
 Require the module from a script.
